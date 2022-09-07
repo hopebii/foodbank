@@ -33,7 +33,24 @@
     - 연속형 변수와 범주형 변수가 혼합된 데이터이기 때문에 해당 기법 적용
   - 4개 군집별 
 ### 2. 기부 현황 대시보드
-기부자에게 기부현황과 이용에 대한 정보를 제공하는 서비스
+기부자에게 기부현황과 이용에 대한 정보를 제공하는 서비스   
+  - tableau를 이용한 기부 현황 및 이용 정보 시각화
+<table>
+<tr>
+<td width = 25%>서울특별시 지역별 이용 건수 및 기부 금액 순위</td>
+<td><img src = "https://user-images.githubusercontent.com/33904461/188937097-8eed4a9d-5ee8-4156-a7bc-b3b349afe7c5.png"></td>
+</tr>
+<tr><td width=25%>시군구별 기부금액 추이 및 기부물품 Top 5</td>
+<td><img src="https://user-images.githubusercontent.com/33904461/188938070-59f09c69-944f-4515-b4a5-eb6c8660cc7d.png">
+</td>
+</tr>
+<tr><td width=25%>지역 선호물품 신호등 및 선호물품 보유 수량</td>
+<td><img src="https://user-images.githubusercontent.com/33904461/188938524-0d6de1c3-d5f4-4a3d-a027-a2dd7baa2bb1.png">
+</td>
+</tr>
+</table>
 
 ### 3. 1동 1푸드마켓 알림 서비스
 서울광역푸드뱅크에서 시행하는 1동 1푸드마켓 활성화를 위한 이용자 특성 고려한 푸드마켓 후보지 시각화 및 기부자에게 장소 알림 서비스 제공
+  - folium을 이용한 푸트마켓 후보지 시각화   
+  
