@@ -12,7 +12,7 @@
 <br/>
 
 ## 문제점 도출
-자세한 문제점 도출 과정은 이 파일을 참고해주세요
+자세한 문제점 도출 과정은 <a href="https://github.com/zzozzo/foodbank/blob/main/foodbank_ppt.pdf">이 파일</a>을 참고해주세요
 <br/>
 
 <table>
